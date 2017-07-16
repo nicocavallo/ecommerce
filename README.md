@@ -1,1 +1,1 @@
-= Opencart/Magento Comparison
+# Opencart/Magento Comparison
