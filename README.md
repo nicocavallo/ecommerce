@@ -6,9 +6,11 @@
 [Magento](#magento)
 
 ### Opencart
-* git clone https://github.com/nicocavallo/ecommerce.git
-* cd opencart
-* docker-compose up
+```bash
+git clone https://github.com/nicocavallo/ecommerce.git
+cd opencart
+docker-compose up
+```
 
 #### Configuration
 * databse host: mysql
@@ -19,9 +21,11 @@
 * http://127.0.0.1:8000/admin
 
 ### Magento
-* git clone https://github.com/nicocavallo/ecommerce.git
-* cd magento
-* docker-compose up
+```bash
+git clone https://github.com/nicocavallo/ecommerce.git
+cd magento
+docker-compose up
+```
 
 #### Configuration
 * databse host: mysql
