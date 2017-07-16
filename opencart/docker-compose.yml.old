@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+    web:
+      image: chrisss404/opencart:latest-php5.5
+      links:
+        - db
+      ports:
+        - "80:80"
+    db:
+      image: chrisss404/opencart:latest-mysql5.5
