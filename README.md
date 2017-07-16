@@ -8,7 +8,7 @@
 ### Opencart
 ```bash
 git clone https://github.com/nicocavallo/ecommerce.git
-cd opencart
+cd ecommerce/opencart
 docker-compose up
 ```
 
@@ -23,7 +23,7 @@ docker-compose up
 ### Magento
 ```bash
 git clone https://github.com/nicocavallo/ecommerce.git
-cd magento
+cd ecommerce/magento
 docker-compose up
 ```
 
